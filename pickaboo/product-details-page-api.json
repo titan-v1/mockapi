@@ -1,1 +1,642 @@
-{}
+{
+  "id": 88292,
+  "sku": "OPNN20SE464GB",
+  "slug": null,
+  "type_id": "configurable",
+  "name": "OnePlus Nord N20 SE 4GB/64GB",
+  "category_ids": [
+    "171",
+    "187",
+    "2940",
+    "2970",
+    "2705",
+    "3025",
+    "3049",
+    "3070",
+    "3015",
+    "3074",
+    "3096",
+    "3107",
+    "3109",
+    "3130",
+    "2708"
+  ],
+  "meta_title": "Buy OnePlus Nord N20 SE 4GB/64GB in Bangladesh | 0% EMI | Official Warranty",
+  "meta_keywords": "OnePlus Nord N20 SE 4GB/64GB, OnePlus Budget phones, MediaTek Helio G35 processor phones, HD+ Display phones, 6.56 inch display phones, 5000mAh battery mobiles ",
+  "meta_description": "Experience OnePlus Mobile on Low Budget with OnePlus Nord N20 SE. It Features 6.56\" Color Rich 60hz Display, 50MP AI Camera & 33W Fast Charging 5000mAh Battery. Shop Now From Pickaboo.",
+  "images": [
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb-6-5-23.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb7.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb5.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb4.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb6.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb3.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb2.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb1.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-n20-se-4gb-64gb-jade-wave.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-n20-se-4gb-64gb-jade-wave-2.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-n20-se-4gb-64gb-jade-wave-3.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-n20-se-4gb-64gb-jade-wave-4.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-n20-se-4gb-64gb-jade-wave-5.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-n20-se-4gb-64gb-jade-wave-6.jpg"
+  ],
+  "is_wishlisted": false,
+  "share_url": "https://www.pickaboo.com/product-detail/oneplus-nord-n20-se-4gb-64gb",
+  "regular_price": 18990,
+  "spacial_price": 0,
+  "discount": 0,
+  "stock_available": true,
+  "express_delivery": 0,
+  "coming_soon": false,
+  "club_points": 340.2,
+  "brand_id": "632",
+  "brand": "OnePlus",
+  "sold_by_vendor_url_key": "natiponalelectronics",
+  "sold_by": "OnePlus Official",
+  "offers": "BDT 800 Checkout Discount, Or\r\n6 Months 0% EMI",
+  "warranty": "12 Months Official Warranty",
+  "emi": 593.44,
+  "varient": [
+    {
+      "option_id": "92",
+      "option_name": "Color",
+      "options": [
+        {
+          "option_value": "10557",
+          "option_text": "Celestial Black",
+          "configurable_product": {
+            "id": 88290,
+            "stock_available": true,
+            "product_price": 18990,
+            "product_specialPrice": 0,
+            "product_discount": 0,
+            "emi": 593.44,
+            "club_points": 340.2,
+            "product_images": [
+              "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb5_1.jpg"
+            ]
+          }
+        },
+        {
+          "option_value": "11238",
+          "option_text": "Blue Oasis",
+          "configurable_product": {
+            "id": 88291,
+            "stock_available": true,
+            "product_price": 18990,
+            "product_specialPrice": 0,
+            "product_discount": 0,
+            "emi": 593.44,
+            "club_points": 340.2,
+            "product_images": [
+              "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-nord-n20-se-4gb-64gb3_1.jpg"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "extra_options": [],
+  "buys_togather": [
+    {
+      "id": "81811",
+      "sku": "XIMW12CMP",
+      "slug": "imilab-w12-smart-watch-global-version",
+      "type_id": "configurable",
+      "express_delivery": "1",
+      "product_name": "Imilab W12 Smart Watch Global Version",
+      "stock_available": true,
+      "product_price": 4990,
+      "product_specialPrice": 2999,
+      "product_discount": 40,
+      "rating": 4.7,
+      "rating_count": 19,
+      "product_img": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/x/i/xiaomi-imilab-w12-smart-watch-3.jpg"
+    },
+    {
+      "id": "86965",
+      "sku": "OPBWZ2NEMOV",
+      "slug": "oneplus-bullets-wireless-z2",
+      "type_id": "configurable",
+      "express_delivery": "1",
+      "product_name": "OnePlus Bullets Wireless Z2",
+      "stock_available": true,
+      "product_price": 3590,
+      "product_specialPrice": 2699,
+      "product_discount": 25,
+      "rating": 4.8,
+      "rating_count": 19,
+      "product_img": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/o/n/oneplus-bullets-wireless-z2-6-7-23.jpg"
+    }
+  ],
+  "product_details": "<h2>OnePlus Nord N20 SE 4GB/64GB</h2>\r\n<ul>\r\n<li>Operating System: OxygenOS 12.1 based on Android 12</li>\r\n<li>CPU: MediaTek Helio G35; 8 cores with a maximum clock rate of 2.3 GHz (4 big cores + 4 little cores)</li>\r\n<li>GPU: IMG GE8320 @ 680 MHz</li>\r\n<li>RAM: 4GB</li>\r\n<li>ROM: 64GB</li>\r\n<li>Display Size: 6.56 inches | HD+(1612×720) pixels 269ppi | Incell Screen</li>\r\n<li>Refresh Rate: 60Hz</li>\r\n<li>Back Camera: 50MP + 2MP | Sensor Size: 1/2.76\"</li>\r\n<li>Back Camera Features: 1080p at 30 fps; 720p at 30 fps</li>\r\n<li>Back Camera Video: Night, Video, Photo, Portrait, TIME-LAPSE, PRO, PANO</li>\r\n<li>Front Camera: 8MP</li>\r\n<li>Front Camera Features: Video, Photo, Portrait, TIME-LAPSE, PANO</li>\r\n<li>Audio: Dual speaker | Noise cancellation support</li>\r\n<li>Battery: 5000mAh (non-removable) | 33W SUPERVOOC</li>\r\n<li>Network: 2G/3G/4G</li>\r\n<li>SIM Card Slot: Dual Nano SIM</li>\r\n<li>Ports: Earphone jack | Microphone Jack | USB port | Speaker Holes</li>\r\n<li>Connectivity: LTE 2×2 MIMO | WLAN 2.4G/WLAN 5.1G/WLAN 5.8G | Bluetooth 5.3 | GPS, BDS, GLONASS, Galileo, and QZSS</li>\r\n<li>Sensors: Geomagnetic sensor | light sensor | proximity sensor | accelerometer | gravity sensor</li>\r\n</ul>\r\n<p><img src=\"https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/wysiwyg/n20se-intro-new.jpg\" alt=\"\" /></p>\r\n<div class=\"row\">\r\n<div style=\"padding: 10px; margin: auto; text-align: center;\">\r\n<h2 style=\"font-size: 40px;\"><strong>OnePlus Nord N20 SE</strong></h2>\r\n<h2 style=\"font-size: 20px;\"><strong>You've Got The Power</strong></h2>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div style=\"padding: 10px; margin: auto; text-align: center;\">\r\n<h2 style=\"font-size: 40px;\"><strong>Highlights</strong></h2>\r\n<div class=\"row\">\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px;\"><a href=\"https://www.pickaboo.com/product/mobil-for-car/\"><img src=\"https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/wysiwyg/n20se-1.jpg\" /></a></div>\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px;\"><a href=\"https://www.pickaboo.com/product/mobil-for-car/\"><img src=\"https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/wysiwyg/n20se-2.jpg\" /></a></div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px; margin: auto; text-align: center;\">\r\n<h2><strong>Charge fast and keep moving</strong></h2>\r\n<p>A low battery will never slow you down, with 33W SUPERVOOC fast charging that boosts your battery life by 50% in just 34 minutes.</p>\r\n</div>\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px; margin: auto; text-align: center;\">\r\n<h2><strong>The power to play all day</strong></h2>\r\n<p>Get all the juice you need to game, browse, chat, and swipe for a full day of use, with a big 5,000mAh battery and features like Super Power Saving Mode.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px;\"><a href=\"https://www.pickaboo.com/product/mobil-for-car/\"><img src=\"https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/wysiwyg/n20se-3.jpg\" /></a></div>\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px;\"><a href=\"https://www.pickaboo.com/product/mobil-for-car/\"><img src=\"https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/wysiwyg/n20se-4.jpg\" /></a></div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px; margin: auto; text-align: center;\">\r\n<h2><strong>Sneakily Premium Design</strong></h2>\r\n<p>A phone this affordable shouldn’t look this good. Featuring three shiny, style-infused colorways — Blue Oasis and Celestial Black — Nord N20 SE’s design is thin, smooth, and lightweight for easier one-handed use.</p>\r\n</div>\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px; margin: auto; text-align: center;\">\r\n<h2><strong>Let’s be Clear — This Camera Rocks!</strong></h2>\r\n<p>You get more ways to snap fun, crystal clear shots with a 50MP AI Dual Camera and versatile photography features like Night Filters and Portrait Retouching.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px;\"><a href=\"https://www.pickaboo.com/product/mobil-for-car/\"><img src=\"https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/wysiwyg/n20se-5.jpg\" /></a></div>\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px;\"><a href=\"https://www.pickaboo.com/product/mobil-for-car/\"><img src=\"https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/wysiwyg/n20se-6.jpg\" /></a></div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px; margin: auto; text-align: center;\">\r\n<h2><strong>6.56-inch Color-Rich Display</strong></h2>\r\n<p>Get Immersive &amp; Color-rich viewing experience from 6.56-inches HD+ IPS LCD panel.</p>\r\n</div>\r\n<div class=\"col-md-6 col-xs-6\" style=\"padding: 10px; margin: auto; text-align: center;\">\r\n<h2><strong>Multi-tasking leveled up</strong></h2>\r\n<p>Move seamlessly between work and play with OxygenOS 12.1 and a big lineup of Fast and Smooth productivity and customization features you’ll love.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+  "more_information": [
+    {
+      "label": "Brand",
+      "value": "OnePlus"
+    },
+    {
+      "label": "SKU",
+      "value": "OPNN20SE464GB"
+    },
+    {
+      "label": "Warranty Information",
+      "value": "12 Months Official Warranty"
+    },
+    {
+      "label": "Emi Available",
+      "value": "6 Months"
+    },
+    {
+      "label": "Display Size (Inches)",
+      "value": "6.56"
+    },
+    {
+      "label": "Front Camera",
+      "value": "8 MP"
+    },
+    {
+      "label": "RAM(GB)",
+      "value": "4GB"
+    },
+    {
+      "label": "SIM Card",
+      "value": "Dual Nano SIM"
+    },
+    {
+      "label": "Processor",
+      "value": "MediaTek Helio G35"
+    },
+    {
+      "label": "Battery mAh",
+      "value": "5000 mAh"
+    },
+    {
+      "label": "Back Camera",
+      "value": "50MP + 2MP + AI"
+    },
+    {
+      "label": "Phone Model",
+      "value": "Nord N20 SE"
+    }
+  ],
+  "rating_summary_value": 4.6,
+  "rating_summary": 91,
+  "reviews_count": 26,
+  "detailed_ratings": [
+    {
+      "rating_code": "Quality",
+      "avg_value": "4.6"
+    },
+    {
+      "rating_code": "Value",
+      "avg_value": "4.5"
+    },
+    {
+      "rating_code": "Price",
+      "avg_value": "4.6"
+    },
+    {
+      "rating_code": "Service",
+      "avg_value": "4.7"
+    }
+  ],
+  "detailed_summary": [
+    14,
+    9,
+    2,
+    1,
+    0
+  ],
+  "all_review_images": [
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_c9b743ec-5247-47b2-997b-2cce230ad53c.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_19d53df5-3b7e-4a8e-b149-ece3d5ed967c.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_c3059742-1f17-4a06-a01c-a8b9d120afb9.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_78d5519c-854f-4652-8397-bea68f4f0956.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_73702f5a-5260-4731-80c6-2bb33a339c67.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_80f56f34-91e9-4e61-962f-e23710ae1453.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_39794057-6dc0-4407-8500-3bf708f50a5f.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_2c1de621-6664-4d72-b11f-41145c857db0.jpg",
+    "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/e/received_1034443960577151.jpeg"
+  ],
+  "reviews_collection": [
+    {
+      "review_id": "41710",
+      "posted_on": "2023-06-15 12:02:15",
+      "reviwer_id": "82538",
+      "reviwer_name": "Mohammad Abdul Halim Romel",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "Recommended ",
+      "detail": "Good product and fast service. Recommended ",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "41409",
+      "posted_on": "2023-06-01 18:17:53",
+      "reviwer_id": "852271",
+      "reviwer_name": "Mehedi Hasan",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Very fast delivery and authentic product received. Thanks PICKABOO.",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "41348",
+      "posted_on": "2023-05-30 10:02:14",
+      "reviwer_id": "860515",
+      "reviwer_name": "Ripon Biswas",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "really good product ",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "41333",
+      "posted_on": "2023-05-29 18:09:29",
+      "reviwer_id": "984829",
+      "reviwer_name": "azizul fazal",
+      "reviwer_image": null,
+      "reviwer_rating": 4.5,
+      "title": "",
+      "detail": "Delivery Process  was so smooth and satisfied about product quality ",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "41289",
+      "posted_on": "2023-05-28 13:28:24",
+      "reviwer_id": "276770",
+      "reviwer_name": "Amit Roy",
+      "reviwer_image": null,
+      "reviwer_rating": 4.8,
+      "title": "",
+      "detail": "Amazing products and got in time.",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "41265",
+      "posted_on": "2023-05-28 08:28:34",
+      "reviwer_id": "36949",
+      "reviwer_name": "sweching nu",
+      "reviwer_image": null,
+      "reviwer_rating": 4.3,
+      "title": "",
+      "detail": "Pickaboo is the best commerce service, products Quality & service is good . Thanks ",
+      "is_recommended": null,
+      "images": [
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_c9b743ec-5247-47b2-997b-2cce230ad53c.jpg",
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_19d53df5-3b7e-4a8e-b149-ece3d5ed967c.jpg"
+      ]
+    },
+    {
+      "review_id": "41187",
+      "posted_on": "2023-05-28 05:12:43",
+      "reviwer_id": "892314",
+      "reviwer_name": "Abu Muhammad  Saleh",
+      "reviwer_image": null,
+      "reviwer_rating": 4.8,
+      "title": "",
+      "detail": "Overall good ",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "41178",
+      "posted_on": "2023-05-28 05:07:57",
+      "reviwer_id": "884797",
+      "reviwer_name": "PLABON CHOWDHURY",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Good Behaviour, Authentic product. Keep up the good service. ❤️❤️❤️",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "41092",
+      "posted_on": "2023-05-24 03:55:14",
+      "reviwer_id": "885499",
+      "reviwer_name": "Simul Kumar",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "ধন্যবাদ,  খুব কম সময়ে ডেলিভারি পেয়েছি। কথা ও কাজের মিল আছে। ",
+      "is_recommended": null,
+      "images": [
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_c3059742-1f17-4a06-a01c-a8b9d120afb9.jpg",
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_78d5519c-854f-4652-8397-bea68f4f0956.jpg"
+      ]
+    },
+    {
+      "review_id": "40974",
+      "posted_on": "2023-05-17 10:25:07",
+      "reviwer_id": "1001482",
+      "reviwer_name": "Md. Sanower  Hossen",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Pickaboo is a best e-commerce website. Product quality is good. Thanks  ",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "40794",
+      "posted_on": "2023-05-09 05:20:01",
+      "reviwer_id": "63609",
+      "reviwer_name": "DELOWAR HOSEN  BEPARI",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "পিকাবো আসলে ভালো একটা অনলাইন সার্ভিস",
+      "detail": "পিকাবো আসলে ভালো একটা অনলাইন সার্ভিস আমি এখান থেকে এ পর্যন্ত প্রায় ৩০ টার উপরে সেট কিনেছি আসলে সবগুলো সেট ভালো পড়ছে তাদের কমিউনিকেশন ভালো তারা সব সময় সেট পেয়েছে কিনা সেটা কিভাবে রকম সাপোর্ট দিচ্ছে এসব কিছুই তাদের প্রতিনিধি যোগাযোগ রাখে ডেলিভারিটা দ্রুত হয় পেমেন্টের সিস্টেমে সুন্দর এবং অন্যান্য অনলাইন সার্ভিস থেকে তাদের প্রাইস টাও কম এবং মাঝে মাঝে অনেক অফার পায় তবে মাশাল্লাহ আমি যতগুলো সিট কিনেছি সবগুলো ভালো পড়েছে এবং অথেন্টিক সেট দিয়েছে",
+      "is_recommended": "2",
+      "images": []
+    },
+    {
+      "review_id": "40618",
+      "posted_on": "2023-04-28 05:00:41",
+      "reviwer_id": "144222",
+      "reviwer_name": "Md. Asad Al  Roman",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "Quality",
+      "detail": "Good",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "40443",
+      "posted_on": "2023-04-12 06:52:01",
+      "reviwer_id": "993850",
+      "reviwer_name": "md khalid",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Fast Delivery ❤️ 100% Genuine product.\nExcellent....  Thanks pikaboo",
+      "is_recommended": null,
+      "images": [
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_73702f5a-5260-4731-80c6-2bb33a339c67.jpg",
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_80f56f34-91e9-4e61-962f-e23710ae1453.jpg"
+      ]
+    },
+    {
+      "review_id": "40212",
+      "posted_on": "2023-03-29 12:50:48",
+      "reviwer_id": "892937",
+      "reviwer_name": "Md. Atiqul Islam Atik",
+      "reviwer_image": "?1687091041",
+      "reviwer_rating": 4.3,
+      "title": "",
+      "detail": "Authentic product.",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "39977",
+      "posted_on": "2023-03-18 03:04:52",
+      "reviwer_id": "977011",
+      "reviwer_name": "Md. Ashraful Alam",
+      "reviwer_image": null,
+      "reviwer_rating": 4.3,
+      "title": "",
+      "detail": "Delivery time onk besi silo, 100% Genuine product. Thanks",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "39807",
+      "posted_on": "2023-03-08 10:28:57",
+      "reviwer_id": "878816",
+      "reviwer_name": "Imran Hossain",
+      "reviwer_image": "?1687091041",
+      "reviwer_rating": 4,
+      "title": "",
+      "detail": "Good phone within this budget, ",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "39431",
+      "posted_on": "2023-02-09 13:21:40",
+      "reviwer_id": "969365",
+      "reviwer_name": "MEHEDI HASAN SHAWON",
+      "reviwer_image": "?1687091041",
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Budget friendly ",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "38712",
+      "posted_on": "2022-12-25 05:28:41",
+      "reviwer_id": "963878",
+      "reviwer_name": "Mehedi  Hasan ",
+      "reviwer_image": null,
+      "reviwer_rating": 4.7,
+      "title": "",
+      "detail": "Excellent ",
+      "is_recommended": null,
+      "images": []
+    },
+    {
+      "review_id": "38069",
+      "posted_on": "2022-11-07 06:49:42",
+      "reviwer_id": "162947",
+      "reviwer_name": "Malay Madhu",
+      "reviwer_image": null,
+      "reviwer_rating": 4.7,
+      "title": "",
+      "detail": "Nice product with this money",
+      "is_recommended": "0",
+      "images": []
+    },
+    {
+      "review_id": "37399",
+      "posted_on": "2022-10-06 20:20:43",
+      "reviwer_id": "947021",
+      "reviwer_name": "Mdl0 Rahman",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Good ",
+      "is_recommended": "0",
+      "images": []
+    },
+    {
+      "review_id": "37241",
+      "posted_on": "2022-09-29 23:27:37",
+      "reviwer_id": "151544",
+      "reviwer_name": "Sharaban Tahura",
+      "reviwer_image": null,
+      "reviwer_rating": 2,
+      "title": "",
+      "detail": "Original product but the phone is not value for money in this price range. ",
+      "is_recommended": "0",
+      "images": [
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_39794057-6dc0-4407-8500-3bf708f50a5f.jpg"
+      ]
+    },
+    {
+      "review_id": "37199",
+      "posted_on": "2022-09-28 05:59:00",
+      "reviwer_id": "898161",
+      "reviwer_name": "Shaikh Mirazul Islam",
+      "reviwer_image": "?1687091041",
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Nice",
+      "is_recommended": "0",
+      "images": []
+    },
+    {
+      "review_id": "37189",
+      "posted_on": "2022-09-27 15:06:38",
+      "reviwer_id": "940308",
+      "reviwer_name": "Ahmed Junayed",
+      "reviwer_image": null,
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Nice",
+      "is_recommended": "0",
+      "images": []
+    },
+    {
+      "review_id": "37128",
+      "posted_on": "2022-09-24 21:57:50",
+      "reviwer_id": "151544",
+      "reviwer_name": "Sharaban Tahura",
+      "reviwer_image": null,
+      "reviwer_rating": 3,
+      "title": "",
+      "detail": "Pickaboo service was good as always, the prone is original. However the phone is not up to the mark in comparison to the price range. In market there is other better options in this range. ",
+      "is_recommended": "0",
+      "images": [
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/n/rn_image_picker_lib_temp_2c1de621-6664-4d72-b11f-41145c857db0.jpg"
+      ]
+    },
+    {
+      "review_id": "37095",
+      "posted_on": "2022-09-23 01:30:39",
+      "reviwer_id": "941716",
+      "reviwer_name": "Rock Ster",
+      "reviwer_image": "?1687091041",
+      "reviwer_rating": 5,
+      "title": "",
+      "detail": "Nice phone ",
+      "is_recommended": "0",
+      "images": []
+    },
+    {
+      "review_id": "37094",
+      "posted_on": "2022-09-22 23:43:28",
+      "reviwer_id": "151544",
+      "reviwer_name": "Sharaban Tahura",
+      "reviwer_image": null,
+      "reviwer_rating": 3,
+      "title": "",
+      "detail": "Pickaboo service was good as always. Got the delivery within 2 days. Phone is original, however the phone is not value for money at all in this price range. Other branded phones with less features are more recommendable in comparison of this product. ",
+      "is_recommended": "0",
+      "images": [
+        "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/amasty/review/r/e/received_1034443960577151.jpeg"
+      ]
+    }
+  ],
+  "similar_products": [],
+  "you_may_also_like": [],
+  "other_brands": [
+    {
+      "id": "1833",
+      "slug": "realme",
+      "name": "realme",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/realme.jpg"
+    },
+    {
+      "id": "1635",
+      "slug": "tecno",
+      "name": "Tecno",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/Tecno.jpg"
+    },
+    {
+      "id": "173",
+      "slug": "iphone",
+      "name": "iPhone",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/Apple.jpg"
+    },
+    {
+      "id": "2927",
+      "slug": "nothing",
+      "name": "Nothing",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/Nothing-Black.png"
+    },
+    {
+      "id": "187",
+      "slug": "oneplus",
+      "name": "OnePlus",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/OnePlus.jpg"
+    },
+    {
+      "id": "172",
+      "slug": "samsung",
+      "name": "Samsung",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/Samsung.jpg"
+    },
+    {
+      "id": "441",
+      "slug": "infinix",
+      "name": "Infinix",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/Infinix.jpg"
+    },
+    {
+      "id": "185",
+      "slug": "nokia",
+      "name": "Nokia",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/Nokia.jpg"
+    },
+    {
+      "id": "1581",
+      "slug": "motorola",
+      "name": "Motorola",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/Motorola.jpg"
+    },
+    {
+      "id": "239",
+      "slug": "xiaomi",
+      "name": "Xiaomi",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/Xiaomi.jpg"
+    },
+    {
+      "id": "1636",
+      "slug": "vivo",
+      "name": "vivo",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/vivo.jpg"
+    },
+    {
+      "id": "183",
+      "slug": "oppo",
+      "name": "OPPO",
+      "is_special": "0",
+      "icon": "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/category/OPPO.jpg"
+    }
+  ],
+  "recently_viewed_products": [],
+  "cache_time": "2023-06-18 18:24:02"
+}
